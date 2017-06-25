@@ -1,4 +1,4 @@
-# GLUG-NITH Website Source Code
+# GLUG-NITH Website Source Code **(deprecated)**
 Almost all of the GLUG-NITH [website][1] is available here. The main aim of making the source code available to all via git is to promote the use of git among students especially among students in [NITH][3]
 
 # How do I get Started ?
